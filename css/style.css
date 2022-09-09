@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: darkslategray;
+}
+a{
+    color: rgb(2, 95, 95);
+}
+
+.link{
+    color: rgb(13, 69, 31);
+}
+
+h3.review{
+    color: firebrick;
+}
+
+div > a{
+    color: blueviolet;
+    font-size: 20px;
+}
+#header{
+    color: rgb(225, 77, 51);
+}
+.pratchett{
+    color: brown;
+    font-size: larger;
+}
